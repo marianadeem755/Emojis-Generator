@@ -1,4 +1,4 @@
-# 🎨 Emoji Generator App
+# 🎨 Emojis Generator App
 
 Welcome to the **Emoji Generator App**! This app allows you to explore and generate random emojis from various categories. Have fun creating your own emojis and sharing them with others!
 
